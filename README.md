@@ -6,11 +6,17 @@ It is important to note that each setup guide given here performs the instructio
 
 These guides include:
 	Setting up Docker Swarm on Ubuntu VMs
+
 	Setting up Kubernetes on different cloud platforms (AKS, EKS, Nectar- ubuntu VM)
+
 	Setting up tests from Phoronix Test Suite
+
 	Running the tests in the Phoronix Test Suite
+
 	Provisioning infrastructure on different clouds
+
 	Other important commands used
+
 
 
 Download the folder to access the guides present as word documents.
